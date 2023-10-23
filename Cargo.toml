@@ -2,7 +2,7 @@
 name = "redis-cache"
 version = "0.1.0"
 authors = ["Evgeni Pirianov"]
-license = "MIT License"
+license = "MIT OR Apache-2.0"
 description = "Redis cache implementation with multiple features and wrappers"
 readme = "README.md"
 edition = "2021"
