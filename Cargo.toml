@@ -1,5 +1,5 @@
 [package]
-name = "redis-cache"
+name = "redis-cacher"
 version = "0.1.0"
 authors = ["Evgeni Pirianov"]
 license = "MIT OR Apache-2.0"
